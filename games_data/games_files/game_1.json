@@ -1,0 +1,229 @@
+{
+  "game_id": 1,
+  "timestamps": {
+    "last_turn_ended": 2695491079
+  },
+  "current_turn": 2,
+  "market_condition": 0,
+  "player1": {
+    "chat_id": "1092366194",
+    "label": "lekos",
+    "gold": 11,
+    "hype": 15,
+    "autism": 16,
+    "staked": 0,
+    "persistent_effects": {
+      "effects": [],
+      "effects_values": []
+    },
+    "current_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "current_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [
+        "four",
+        "four"
+      ],
+      "effects_values": [
+        1,
+        1
+      ]
+    },
+    "next_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "class": "Whale",
+    "unstaked_this_turn": 0
+  },
+  "player2": {
+    "chat_id": "6465460082",
+    "label": "work",
+    "gold": 33,
+    "hype": 12,
+    "autism": 17,
+    "staked": 0,
+    "persistent_effects": {
+      "effects": [],
+      "effects_values": []
+    },
+    "current_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "current_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "class": "Whale",
+    "unstaked_this_turn": 0
+  },
+  "pending_actions": {
+    "action1": {
+      "player1": "",
+      "player2": ""
+    },
+    "action2": {
+      "player1": "",
+      "player2": ""
+    }
+  },
+  "turns_log": [
+    [
+      {
+        "label": "lekos",
+        "action": "four",
+        "gold_spent": 4,
+        "roll_results": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "gold_lost": 4,
+        "hype_gained": 4,
+        "autism_gained": 4
+      },
+      {
+        "label": "work",
+        "action": "kill_inversebrah",
+        "current_gold": 33,
+        "current_hype": 12,
+        "current_gold_opp": 19,
+        "current_hype_opp": 17,
+        "gold_gained": 8,
+        "gold_gained_effects_part": 0,
+        "autism_gained": 6,
+        "hype_stolen": 0
+      },
+      {
+        "label": "lekos",
+        "action": "four",
+        "gold_spent": 4,
+        "roll_results": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "gold_lost": 4,
+        "hype_gained": 4,
+        "autism_gained": 4
+      },
+      {
+        "label": "work",
+        "action": "dox_opp",
+        "current_autism": 17,
+        "current_autism_opp": 16,
+        "probability": 36,
+        "roll_result": false,
+        "hype_loss_for_opponent": 6,
+        "effect_applied": "doxed"
+      }
+    ],
+    []
+  ],
+  "prev_turn_player1": {
+    "chat_id": "1092366194",
+    "label": "lekos",
+    "gold": 27,
+    "hype": 13,
+    "autism": 8,
+    "staked": 0,
+    "persistent_effects": {
+      "effects": [],
+      "effects_values": []
+    },
+    "current_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "current_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "class": "Whale"
+  },
+  "prev_turn_player2": {
+    "chat_id": "6465460082",
+    "label": "work",
+    "gold": 25,
+    "hype": 12,
+    "autism": 11,
+    "staked": 0,
+    "persistent_effects": {
+      "effects": [],
+      "effects_values": []
+    },
+    "current_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "current_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "class": "Whale"
+  }
+}

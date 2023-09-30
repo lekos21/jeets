@@ -1,0 +1,17 @@
+{
+  "chat_id": 0,
+  "label": null,
+  "user_state": "",
+  "win": 0,
+  "loss": 0,
+  "tie": 0,
+  "streak": 0,
+  "max_streak": 0,
+  "abandoned": 0,
+  "badges": {},
+  "games": {
+
+  }
+}
+
+

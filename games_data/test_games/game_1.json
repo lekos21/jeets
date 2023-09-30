@@ -1,0 +1,2240 @@
+{
+  "game_id": -1,
+  "timestamps": {
+    "last_turn_ended": 2695491079
+  },
+  "current_turn": 7,
+  "market_condition": 0,
+  "player1": {
+    "chat_id": "",
+    "label": "player1",
+    "gold": 6,
+    "hype": 7,
+    "autism": 40,
+    "staked": -8,
+    "persistent_effects": {
+      "effects": [],
+      "effects_values": []
+    },
+    "current_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "current_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_turn_effects": {
+      "hype_modifier": 28,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "class": "Degen"
+  },
+  "player2": {
+    "chat_id": "",
+    "label": "player2",
+    "gold": 9,
+    "hype": 7,
+    "autism": 49,
+    "staked": 0,
+    "persistent_effects": {
+      "effects": [],
+      "effects_values": []
+    },
+    "current_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "current_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "class": "Threadoor"
+  },
+  "pending_actions": {
+    "action1": {
+      "player1": "",
+      "player2": ""
+    },
+    "action2": {
+      "player1": "",
+      "player2": ""
+    }
+  },
+  "turns_log": [
+    [
+      {
+        "label": "player1",
+        "action": "deploy_memecoin",
+        "initial_gold": 5,
+        "initial_hype": 10,
+        "base_min_pct": 80,
+        "base_max_pct": 110,
+        "bonus_pct": 3,
+        "modified_hype": 10,
+        "gold_in_LP": 3.5,
+        "gold_returned_raw": 3,
+        "gains_made": false,
+        "gold_returned_effects_part": 0,
+        "fudded": 0,
+        "cex": 0,
+        "end_of_action_stats": {
+          "turn": 1,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "hire_hackers",
+        "gold_spent": 10,
+        "current_autism": 20,
+        "current_autism_opp": 21,
+        "bonus_autism_1": 10,
+        "bonus_autism_2": 13,
+        "end_of_action_stats": {
+          "turn": 1,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player1",
+        "action": "deploy_memecoin",
+        "initial_gold": 5,
+        "initial_hype": 10,
+        "base_min_pct": 80,
+        "base_max_pct": 110,
+        "bonus_pct": 3,
+        "modified_hype": 10,
+        "gold_in_LP": 3.5,
+        "gold_returned_raw": 3,
+        "gains_made": false,
+        "gold_returned_effects_part": 0,
+        "fudded": 0,
+        "cex": 0,
+        "end_of_action_stats": {
+          "turn": 1,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "deploy_memecoin",
+        "initial_gold": 8,
+        "initial_hype": 13,
+        "base_min_pct": 80,
+        "base_max_pct": 110,
+        "bonus_pct": 4,
+        "modified_hype": 13,
+        "gold_in_LP": 5.6,
+        "gold_returned_raw": 5,
+        "gains_made": false,
+        "gold_returned_effects_part": 0,
+        "fudded": 0,
+        "cex": 0,
+        "end_of_action_stats": {
+          "turn": 1,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "label": "player1",
+        "action": "dox_opp",
+        "current_autism": 21,
+        "current_autism_opp": 33,
+        "probability": 0,
+        "roll_result": false,
+        "hype_loss_for_opponent": 6,
+        "effect_applied": "doxed",
+        "end_of_action_stats": {
+          "turn": 2,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "exploit_opp",
+        "probability": 42,
+        "current_autism": 33,
+        "current_autism_opp": 21,
+        "roll_result": false,
+        "steal_percentage": 42.5,
+        "resources_stolen": 1,
+        "opponent_hype_lost": 0,
+        "end_of_action_stats": {
+          "turn": 2,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player1",
+        "action": "burn_tokens",
+        "gold_spent": 15,
+        "next_turn_hype_gained": 27,
+        "end_of_action_stats": {
+          "turn": 2,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "hire_hackers",
+        "gold_spent": 10,
+        "current_autism": 43,
+        "current_autism_opp": 21,
+        "bonus_autism_1": 10,
+        "bonus_autism_2": 0,
+        "end_of_action_stats": {
+          "turn": 2,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "label": "player1",
+        "action": "hire_hackers",
+        "gold_spent": 10,
+        "current_autism": 31,
+        "current_autism_opp": 43,
+        "bonus_autism_1": 10,
+        "bonus_autism_2": 9,
+        "end_of_action_stats": {
+          "turn": 3,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "raise_for_new_L2",
+        "initial_gold": -2,
+        "initial_hype": 7,
+        "fixed_gold_gained": 15,
+        "fixed_gold_gained_effects_part": 0,
+        "fixed_hype_gained": 3,
+        "current_hype": 10,
+        "current_hype_opp": 37,
+        "probability": 0,
+        "roll_success": false,
+        "extra_gold_gained_raw": 0,
+        "extra_gold_gained_effects_contribution": 0,
+        "fudded": 0,
+        "cex": 0,
+        "total_gold_gained_post_effects": 15,
+        "end_of_action_stats": {
+          "turn": 3,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player1",
+        "action": "stake",
+        "initial_gold": -20,
+        "gold_staked": -8,
+        "yield": 25,
+        "fudded": 0,
+        "end_of_action_stats": {
+          "turn": 3,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "raise_for_new_L2",
+        "initial_gold": 13,
+        "initial_hype": 10,
+        "fixed_gold_gained": 15,
+        "fixed_gold_gained_effects_part": 0,
+        "fixed_hype_gained": 3,
+        "current_hype": 13,
+        "current_hype_opp": 37,
+        "probability": 0,
+        "roll_success": false,
+        "extra_gold_gained_raw": 0,
+        "extra_gold_gained_effects_contribution": 0,
+        "fudded": 0,
+        "cex": 0,
+        "total_gold_gained_post_effects": 15,
+        "end_of_action_stats": {
+          "turn": 3,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "label": "player1",
+        "action": "flash_loan",
+        "initial_gold": -12,
+        "initial_gold_opp": 28,
+        "gold_gained": 25,
+        "gold_stolen": 20,
+        "gold_paid_back": 26,
+        "end_of_action_stats": {
+          "turn": 4,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "stake",
+        "initial_gold": 8,
+        "gold_staked": 3,
+        "yield": 25,
+        "fudded": 0,
+        "end_of_action_stats": {
+          "turn": 4,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player1",
+        "action": "deploy_memecoin",
+        "initial_gold": 7,
+        "initial_hype": 10,
+        "base_min_pct": 80,
+        "base_max_pct": 110,
+        "bonus_pct": 3,
+        "modified_hype": 10,
+        "gold_in_LP": 4.8999999999999995,
+        "gold_returned_raw": 4,
+        "gains_made": false,
+        "gold_returned_effects_part": 0,
+        "fudded": 0,
+        "cex": 0,
+        "end_of_action_stats": {
+          "turn": 4,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "deploy_memecoin",
+        "initial_gold": 5,
+        "initial_hype": 13,
+        "base_min_pct": 80,
+        "base_max_pct": 110,
+        "bonus_pct": 4,
+        "modified_hype": 13,
+        "gold_in_LP": 3.5,
+        "gold_returned_raw": 3,
+        "gains_made": false,
+        "gold_returned_effects_part": 0,
+        "fudded": 0,
+        "cex": 0,
+        "end_of_action_stats": {
+          "turn": 4,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "label": "player1",
+        "action": "raise_for_new_L2",
+        "initial_gold": 7,
+        "initial_hype": 10,
+        "fixed_gold_gained": 15,
+        "fixed_gold_gained_effects_part": 0,
+        "fixed_hype_gained": 3,
+        "current_hype": 13,
+        "current_hype_opp": 13,
+        "probability": 0,
+        "roll_success": false,
+        "extra_gold_gained_raw": 0,
+        "extra_gold_gained_effects_contribution": 0,
+        "fudded": 0,
+        "cex": 0,
+        "total_gold_gained_post_effects": 15,
+        "end_of_action_stats": {
+          "turn": 5,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "burn_tokens",
+        "gold_spent": 15,
+        "next_turn_hype_gained": 40,
+        "end_of_action_stats": {
+          "turn": 5,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player1",
+        "action": "dox_opp",
+        "current_autism": 40,
+        "current_autism_opp": 43,
+        "probability": 24,
+        "roll_result": false,
+        "hype_loss_for_opponent": 6,
+        "effect_applied": "doxed",
+        "end_of_action_stats": {
+          "turn": 5,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "farm_airdrop",
+        "initial_gold": -7,
+        "initial_autism": -7,
+        "gold_gained_raw": 17,
+        "fudded": 0,
+        "gold_gained_effects_part": 0,
+        "autism_gained": 6,
+        "end_of_action_stats": {
+          "turn": 5,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "label": "player1",
+        "action": "flash_loan",
+        "initial_gold": 22,
+        "initial_gold_opp": 10,
+        "gold_gained": 25,
+        "gold_stolen": 0,
+        "gold_paid_back": 26,
+        "end_of_action_stats": {
+          "turn": 6,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "flash_loan",
+        "initial_gold": 10,
+        "initial_gold_opp": 21,
+        "gold_gained": 25,
+        "gold_stolen": 0,
+        "gold_paid_back": 26,
+        "end_of_action_stats": {
+          "turn": 6,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player1",
+        "action": "burn_tokens",
+        "gold_spent": 15,
+        "next_turn_hype_gained": 28,
+        "end_of_action_stats": {
+          "turn": 6,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      },
+      {
+        "label": "player2",
+        "action": "dox_opp",
+        "current_autism": 49,
+        "current_autism_opp": 40,
+        "probability": 57,
+        "roll_result": false,
+        "hype_loss_for_opponent": 6,
+        "effect_applied": "doxed",
+        "end_of_action_stats": {
+          "turn": 6,
+          "player1": {
+            "chat_id": "",
+            "label": "player1",
+            "gold": 6,
+            "hype": 7,
+            "autism": 40,
+            "staked": -8,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 28,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Degen"
+          },
+          "player2": {
+            "chat_id": "",
+            "label": "player2",
+            "gold": 9,
+            "hype": 7,
+            "autism": 49,
+            "staked": 0,
+            "persistent_effects": {
+              "effects": [],
+              "effects_values": []
+            },
+            "current_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "current_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_action_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "next_turn_effects": {
+              "hype_modifier": 0,
+              "autism_modifier": 0,
+              "effects": [],
+              "effects_values": []
+            },
+            "class": "Threadoor"
+          }
+        }
+      }
+    ],
+    []
+  ],
+  "initial_stats": [
+    {
+      "gold": 5,
+      "hype": 10,
+      "autism": 21
+    },
+    {
+      "gold": 18,
+      "hype": 13,
+      "autism": 10
+    }
+  ]
+}

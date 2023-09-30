@@ -1,0 +1,91 @@
+{
+  "game_id": -1,
+  "timestamps": {
+    "last_turn_ended": 2695491079
+  },
+  "current_turn": 1,
+  "market_condition": 0,
+  "player1": {
+    "chat_id": "",
+    "label": "",
+    "gold": 0,
+    "hype": 0,
+    "autism": 0,
+    "staked": 0,
+    "persistent_effects": {
+      "effects": [],
+      "effects_values": []
+    },
+    "current_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "current_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    }
+  },
+  "player2": {
+    "chat_id": "",
+    "label": "",
+    "gold": 0,
+    "hype": 0,
+    "autism": 0,
+    "staked": 0,
+    "persistent_effects": {
+      "effects": [],
+      "effects_values": []
+    },
+    "current_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "current_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_action_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    },
+    "next_turn_effects": {
+      "hype_modifier": 0,
+      "autism_modifier": 0,
+      "effects": [],
+      "effects_values": []
+    }
+  },
+  "pending_actions": {
+    "action1": {
+      "player1": "",
+      "player2": ""
+    },
+    "action2": {
+      "player1": "",
+      "player2": ""
+    }
+  },
+  "turns_log": [[]]
+}

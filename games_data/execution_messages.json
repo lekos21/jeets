@@ -1,0 +1,230 @@
+{
+  "raise_for_new_L2": {
+    "effects_message": {
+      "fudded_and_cex": "{label} is /fudded (-{fudded}%) and has a /CEX partnership (+{cex}%).",
+      "fudded": "{label} is under the effect of /FUD (-{fudded}%).",
+      "cex": "{label} has a /CEX partnership (+{cex}%).",
+      "no_effects": "no special effects."
+    },
+    "base_gains_message": [
+      "*{label}* raises for a new ZK rollup he doesn't know anything about, gaining {fixed_gold_gained} ({fixed_gold_gained_effects_part_sign}{fixed_gold_gained_effects_part})\uD83D\uDFE1 and {fixed_hype_gained}\uD83D\uDD25.",
+      "*{label}* raises to build yet another option protocol of Arbitrum, gaining {fixed_gold_gained} ({fixed_gold_gained_effects_part_sign}{fixed_gold_gained_effects_part})\uD83D\uDFE1 and {fixed_hype_gained}\uD83D\uDD25.",
+      "*{label}* raises to build an insanely ambitious protocol that, if successful, could really reshape the fabric of society. He gains {fixed_gold_gained} ({fixed_gold_gained_effects_part_sign}{fixed_gold_gained_effects_part})\uD83D\uDFE1 and {fixed_hype_gained}\uD83D\uDD25.",
+      "*{label}* raises to build _nothing_. Yes, nothing, but they still give him {fixed_gold_gained} ({fixed_gold_gained_effects_part_sign}{fixed_gold_gained_effects_part})\uD83D\uDFE1 and {fixed_hype_gained}\uD83D\uDD25."
+    ],
+    "preroll_stats_message": [
+      "Then he rolls with {probability}% chance of success ({hype_diff}\uD83D\uDD25 diff) to get bonus \uD83D\uDFE1."
+    ],
+    "extra_gains_message": [
+      "The roll is successful! He gained an extra {extra_gold_gained_raw} ({extra_gold_gained_effects_contribution_sign}{extra_gold_gained_effects_contribution})\uD83D\uDFE1 scraped together from the FTX liquidators.",
+      "So lucky, he gains an extra {extra_gold_gained_raw} ({extra_gold_gained_effects_contribution_sign}{extra_gold_gained_effects_contribution})\uD83D\uDFE1 from Binance Labs.",
+      "His Excellency thinks *{label}* is a genius, so he gave him an extra {extra_gold_gained_raw} ({extra_gold_gained_effects_contribution_sign}{extra_gold_gained_effects_contribution})\uD83D\uDFE1.",
+      "Tetranode joined the party, throwing an extra {extra_gold_gained_raw} ({extra_gold_gained_effects_contribution_sign}{extra_gold_gained_effects_contribution})\uD83D\uDFE1.",
+      "Su Zhu tweeted that the project is esoteric, but could become exoteric. An extra {extra_gold_gained_raw} ({extra_gold_gained_effects_contribution_sign}{extra_gold_gained_effects_contribution})\uD83D\uDFE1 put together."
+    ],
+    "roll_fail_message": [
+      "Due to market condition, the extra money is gone. Hope you understand.",
+      "Some vulnerabilities are found in the contract, investors are disappoionted and they won't invest more",
+      "Investors are focused on a new AI project, no more money for crypto",
+      "Su Zhu tweeted that the project is esoteric, but it's not cut to become exoteric. No extra money this time.",
+      "Bruh T-Bills yield is 5% and you hope people are throwing more money at this? Nope.",
+      "The roll failed, no extra \uD83D\uDFE1 gained."
+    ]
+  },
+  "farm_airdrop": {
+    "effects_message": {
+      "fudded": "{label} is /fudded (-{fudded}%).",
+      "no_effects": "no special effects."
+    },
+    "base_gains_message": [
+      "*{label}* farmed ZKSync airdrop, gaining {gold_gained_raw} ({gold_gained_effects_part_sign}{gold_gained_effects_part})\uD83D\uDFE1 and {autism_gained}\uD83D\uDC8A.",
+      "*{label}* farmed Linea airdrop, gaining {gold_gained_raw} ({gold_gained_effects_part_sign}{gold_gained_effects_part})\uD83D\uDFE1 and {autism_gained}\uD83D\uDC8A.",
+      "*{label}* farmed Layer0 airdrop, gaining {gold_gained_raw} ({gold_gained_effects_part_sign}{gold_gained_effects_part})\uD83D\uDFE1 and {autism_gained}\uD83D\uDC8A.",
+      "*{label}* farmed an obscure protocol on Solana, gaining {gold_gained_raw} ({gold_gained_effects_part_sign}{gold_gained_effects_part})\uD83D\uDFE1 and {autism_gained}\uD83D\uDC8A.",
+      "*{label}* farmed a dumb telegram game, gaining {gold_gained_raw} ({gold_gained_effects_part_sign}{gold_gained_effects_part})\uD83D\uDFE1 and {autism_gained}\uD83D\uDC8A."
+    ]
+  },
+  "deploy_memecoin": {
+    "effects_message": {
+      "fudded_and_cex": "fudded (-{fudded}%), CEX partnership (+{cex}%)",
+      "fudded": "fudded (-{fudded}%)",
+      "cex": "CEX partnership (+{cex}%)",
+      "no_effects": "no special effects"
+    },
+    "preroll_stats_message": [
+      "He rolls to get {base_min_pct}-{base_max_pct}% of the LP + {bonus_pct}% (based on {current_hype})."
+    ],
+    "base_gains_message": [
+      "_$ASS_ is now deployed on mainnet. *{label}* put {gold_in_LP}\uD83D\uDFE1 in the LP and getting back {gold_returned_raw} ({gold_returned_effects_part_sign}{gold_returned_effects_part}).",
+      "_$CUM_ is now deployed on mainnet. *{label}* put {gold_in_LP}\uD83D\uDFE1 in the LP and getting back {gold_returned_raw} ({gold_returned_effects_part_sign}{gold_returned_effects_part}).",
+      "_$CUNT_ is now deployed on mainnet. *{label}* put {gold_in_LP}\uD83D\uDFE1 in the LP and getting back {gold_returned_raw} ({gold_returned_effects_part_sign}{gold_returned_effects_part}).",
+      "_$COCK_ is now deployed on mainnet. *{label}* put {gold_in_LP}\uD83D\uDFE1 in the LP and getting back {gold_returned_raw} ({gold_returned_effects_part_sign}{gold_returned_effects_part})."
+    ]
+  },
+  "rug_pull": {
+    "effects_message": {
+      "fudded": "is fudded (-{fudded}%)",
+      "no_effects": "no special effects"
+    },
+    "base_gains_message": [
+      "*{label}* rugpulls $HAIR, gaining {fixed_bonus_gold_raw} ({fixed_bonus_gold_raw_effects_contribution_sign}{fixed_bonus_gold_raw_effects_contribution})\uD83D\uDD25 and {bonus_autism}\uD83D\uDC8A.",
+      "*{label}* rugpulls a random coin on Shibarium, gaining {fixed_bonus_gold_raw} ({fixed_bonus_gold_raw_effects_contribution_sign}{fixed_bonus_gold_raw_effects_contribution})\uD83D\uDD25 and {bonus_autism}\uD83D\uDC8A.",
+      "*{label}* rugpulls a coin on Solana, gaining {fixed_bonus_gold_raw} ({fixed_bonus_gold_raw_effects_contribution_sign}{fixed_bonus_gold_raw_effects_contribution})\uD83D\uDD25 and {bonus_autism}\uD83D\uDC8A.",
+      "*{label}* releases a 30/30 token and rugpulls the snipers, gaining {fixed_bonus_gold_raw} ({fixed_bonus_gold_raw_effects_contribution_sign}{fixed_bonus_gold_raw_effects_contribution})\uD83D\uDD25 and {bonus_autism}\uD83D\uDC8A."
+    ],
+    "extra_gains_message": [
+    "Additionally, *{label}* gains {extra_gold_raw} ({extra_gold_effects_contribution_sign}{extra_gold_effects_contribution}) extra \uD83D\uDFE1 based on {autism_diff_sign}{autism_diff}\uD83D\uDC8A diff."
+    ],
+    "zach_message": {
+      "success": [
+        "Oh no, Zach wrote a thread about the rug! *{label}* lost {zach_values[0]}\uD83D\uDFE1 and {zach_values[1]}\uD83D\uDD25."
+      ],
+      "fail": [
+        "No Zach thread this time! *{label}* dodged a bullet.",
+        "Zach didn't care enough, *{label}* is safe this time"
+      ]
+    }
+  },
+  "pump_and_dump": {
+    "effects_message": {
+      "fudded": "fudded (-{fudded}%)",
+      "no_effects": "no special effects"
+    },
+    "gains_message": [
+      "*{label}* pump and dumped a coin on BSC to gain {gold_gained_raw} ({gold_gained_effects_contribution_sign}{gold_gained_effects_contribution})\uD83D\uDFE1 based on {hype_diff}\uD83D\uDD25 diff."
+    ],
+    "zach_message": {
+      "success": ["Oh shit, Zach wrote a thread about this PnD! *{label}* lost {zach_values[0]}\uD83D\uDFE1 and {zach_values[1]}\uD83D\uDD25."],
+      "fail": [
+        "Zach thread failed! *{label}* dodged a bullet.",
+        "Zach didn't care enough about, *{label}* is safe this time"
+      ]
+    }
+  },
+  "stake": {
+    "stake_message": [
+      "{gold_staked}\uD83D\uDFE1 have been staked in a dubious Crypto Casino on Aptos.",
+      "{gold_staked}\uD83D\uDFE1 have been staked in a new memecoin LP on SUI.",
+      "{gold_staked}\uD83D\uDFE1 have been staked in the LP of the new ben.eth scam.",
+      "{gold_staked}\uD83D\uDFE1 have been staked in what's probably an exit scam.",
+      "{gold_staked}\uD83D\uDFE1 have been staked in a shitcoin funded from Fixed Float.",
+      "{gold_staked}\uD83D\uDFE1 have been staked in ETH. That’s called passive income.",
+      "{gold_staked}\uD83D\uDFE1 have been staked in the fork of the fork of the fork of the 'New Friend Tech'",
+      "{gold_staked}\uD83D\uDFE1 have been staked in what's probably an exit scam."
+    ]
+  },
+  "exploit_opp": {
+    "preliminary_message": [
+      "With the help of Laurence, *{label}* tried to exploit the opponent with a \uD83D\uDC8A difference of {current_autism} vs {current_autism_opp} => {probability}% chance of success.",
+      "*{label}* used his contacts with Lazarus group to exploit the opponent with a \uD83D\uDC8A difference of {current_autism} vs {current_autism_opp} => {probability}% chance of success."
+    ],
+    "success_message": [
+      "*The *exploit is succesful*, {resources_stolen}\uD83D\uDFE1 have been stolen and opponent \uD83D\uDD25 is reduced by {opponent_hype_lost}.",
+      "Hack successful! {resources_stolen}\uD83D\uDFE1 have been siphoned off, causing a {opponent_hype_lost}\uD83D\uDD25 loss to the opponent."
+    ],
+    "fail_message": [
+      "*{label}* attempt to exploit the opponent failed.",
+      "*{label}* tried to hack into the opponent's system but got caught."
+    ]
+  },
+  "fud_opp": {
+    "preliminary_message": [
+      "*{label}* is attempting to spread FUD with a \uD83D\uDD25 diff. of {hype_diff}",
+      "With a \uD83D\uDD25 diff. of {hype_diff}, *{label}* is gearing up to spread some serious FUD."
+    ],
+    "success_message": [
+      "*{label}* successfully spread FUD, reducing the opponent's next turn \uD83D\uDFE1 gains by {resource_reduction}% and causing a loss of {gold_loss_for_opponent}\uD83D\uDFE1.",
+      "*{label}* sowed discord, cutting the opponent's next turn \uD83D\uDFE1 gains by {resource_reduction}% and making them lose {gold_loss_for_opponent}\uD83D\uDFE1.",
+      "*{label}* recruits Adam Cochran to write a thread against the opponent, reducing his next turn \uD83D\uDFE1 gains by {resource_reduction}% and making them lose {gold_loss_for_opponent}\uD83D\uDFE1."
+    ],
+    "hype_spent_message": [
+      "*{label}* spent {hype_spent}\uD83D\uDD25 to execute this action.",
+      "The FUD campaign cost *{label}* a total of {hype_spent}\uD83D\uDD25."
+    ]
+  },
+  "dox_opp": {
+    "preliminary_message": [
+      "*{label}* attempted to dox the opponent with \uD83D\uDC8A level of {current_autism} vs {current_autism_opp}. Chance of success: {probability}%."
+    ],
+    "success_message": [
+      "He successfully doxed the opponent, causing a loss of {hype_loss_for_opponent}\uD83D\uDD25. The opponent is now doxed and can't rugpull or PnD for the rest of the game.",
+      "He exposed the opponent, making them lose {hype_loss_for_opponent}\uD83D\uDD25. Doxing successful! The opponent is now restricted from rugpulling and PnD for the rest of the game."
+    ],
+    "failure_message": [
+      "He failed to dox the opponent. Better luck next time!",
+      "Doxing attempt unsuccessful. *{label}* couldn't expose the opponent."
+    ]
+  },
+  "flash_loan": {
+    "success_message": [
+      "*{label}* starts a Flash Loan, gaining {gold_gained}\uD83D\uDFE1 and stealing {gold_stolen}\uD83D\uDFE1 from the opponent. Paid back {gold_paid_back}\uD83D\uDFE1.",
+      "*{label}* pulled off a Flash Loan, racking up {gold_gained}\uD83D\uDFE1 and swiping {gold_stolen}\uD83D\uDFE1 from the opponent. Returned {gold_paid_back}\uD83D\uDFE1."
+    ],
+    "failure_message": [
+      "*{label}* attempts a Flash Loan gaining {gold_gained}\uD83D\uDFE1, but doesn't manage to steal any from the opponent. Paid back {gold_paid_back}\uD83D\uDFE1.",
+      "*{label}* tries a Flash Loan and get {gold_gained}\uD83D\uDFE1, but fails to steal any from the opponent. Returned {gold_paid_back}\uD83D\uDFE1."
+    ]
+  },
+  "hire_shillers": {
+    "message": [
+      "*{label}* hired some threadoors, paying {paid_gold}\uD83D\uDFE1 to gain {bonus_hype}\uD83D\uDD25. FUD has been removed.",
+      "*{label}* brought in a shill army, shelling out {paid_gold}\uD83D\uDFE1 for a {bonus_hype}\uD83D\uDD25 boost. FUD has been removed..",
+      "*{label}* recruited poordart, costing {paid_gold}\uD83D\uDFE1 but gaining {bonus_hype}\uD83D\uDD25. FUD has been removed.",
+      "*{label}* partnered with Cold Blooded Shiller, costing {paid_gold}\uD83D\uDFE1 but gaining {bonus_hype}\uD83D\uDD25. FUD has been removed.",
+      "*{label}* managed to sign a deal with Hsaka, paying {paid_gold}\uD83D\uDFE1 but gaining {bonus_hype}\uD83D\uDD25. FUD has been removed."
+    ]
+  },
+  "cex_partnership": {
+    "message": [
+      "*{label}* partnered with Kraken, spending {gold_spent}\uD83D\uDFE1 to gain {hype_gained}\uD83D\uDD25 and {autism_gained}\uD83D\uDC8A. Future raises and memecoin deployments will be more profitable, but rugpulls and exploits are off the table.",
+      "*{label}* forged a an alliance with MEXC, shelling out {gold_spent}\uD83D\uDFE1 for a {hype_gained}\uD83D\uDD25 and {autism_gained}\uD83D\uDC8A boost. Raises and memecoin deployments just got more lucrative, but  and exploits are now a no-go.",
+      "*{label}* inked a deal with Binance, costing {gold_spent}\uD83D\uDFE1 but gaining {hype_gained}\uD83D\uDD25 and {autism_gained}\uD83D\uDC8A. Your raises and memecoin deployments will be more profitable for the rest of the game, but you must say goodbye to rugpulls and exploits.",
+      "{label} struck gold with OKX, dropping {gold_spent}\uD83D\uDFE1 to rake in {hype_gained}\uD83D\uDD25 and {autism_gained}\uD83D\uDC8A. Your future raises and memecoin launches are set to moon, but rugpulls and exploits are avoided now.",
+      "{label} brokered a deal with Bybit, shelling out {gold_spent}\uD83D\uDFE1 for a sweet {hype_gained}\uD83D\uDD25 and {autism_gained}\uD83D\uDC8A boost. Your raises and memecoin moves are now are buffed, but rugpulls and exploits are off-limits."
+
+    ]
+  },
+  "burn_tokens": {
+    "message": [
+      "*{label}* burns {gold_spent}\uD83D\uDFE1 to gain {next_turn_hype_gained}\uD83D\uDD25 for the next turn.",
+      "*{label}* torches {gold_spent}\uD83D\uDFE1 for a {next_turn_hype_gained}\uD83D\uDD25 boost next turn.",
+      "*{label}* set {gold_spent}\uD83D\uDFE1 ablaze, racking up {next_turn_hype_gained}\uD83D\uDD25 for the upcoming turn."
+    ]
+  },
+  "four": {
+    "message": [
+      "*{label}* invokes the protection of *4*, paying 4\uD83D\uDFE1 for immunity from exploits for this turn. {len(roll_results)}/4 rolls were successful, costing an extra {gold_lost}\uD83D\uDFE1 but gaining {hype_gained}\uD83D\uDD25 and {autism_gained}\uD83D\uDC8A.",
+      "*{label}* channels the ancient power of *4*, shelling out 4\uD83D\uDFE1 for exploit immunity for this turn. {len(roll_results)}/4 rolls hit the mark, costing {gold_lost}\uD83D\uDFE1 more but racking up {hype_gained}\uD83D\uDD25 and {autism_gained}\uD83D\uDC8A.",
+      "*{label}* plays the *4*, card, dropping 4\uD83D\uDFE1 to dodge exploits this turn. {len(roll_results)}/4 rolls came up aces, setting *{label}* back another {gold_lost}\uD83D\uDFE1, adding {hype_gained}\uD83D\uDD25 and {autism_gained}\uD83D\uDC8A."
+    ]
+  },
+  "hire_hackers": {
+    "message": [
+      "*{label}* hires some hackers for {gold_spent}\uD83D\uDFE1, gaining {bonus_autism_1}\uD83D\uDC8A. With a \uD83D\uDC8A level of {current_autism} vs {current_autism_opp}, *{label}* also scored an extra {bonus_autism_2}\uD83D\uDC8A.",
+      "*{label}* brings in a hacker crew for {gold_spent}\uD83D\uDFE1, boosting \uD83D\uDC8A by {bonus_autism_1}. \uD83D\uDC8A showdown: {current_autism} to {current_autism_opp}. Extra \uD83D\uDC8A gained: {bonus_autism_2}.",
+      "*{label}* spend {gold_spent}\uD83D\uDFE1 to recruit hackers, upping \uD83D\uDC8A by {bonus_autism_1}. \uD83D\uDC8A levels: {current_autism} for *{label}* vs {current_autism_opp} for the opponent. Additional \uD83D\uDC8A: {bonus_autism_2}."
+    ],
+    "message_fail": [
+      "*{label}* hires some Miladys hackers for 15 \uD83D\uDFE1, gaining {bonus_autism_1}\uD83D\uDC8A. With a \uD83D\uDC8A level of {current_autism} vs {current_autism_opp} for the opponent, no extra \uD83D\uDC8A was gained.",
+      "*{label}* bring in a hacker crew for 15 \uD83D\uDFE1, boosting \uD83D\uDC8A by {bonus_autism_1}. \uD83D\uDC8A showdown: {current_autism} to {current_autism_opp}. No extra \uD83D\uDC8A this time.",
+      "*{label}* spend 15\uD83D\uDFE1 to recruit hackers, upping \uD83D\uDC8A by {bonus_autism_1}. \uD83D\uDC8A levels: {current_autism} for *{label}* vs {current_autism_opp} for the opponent. No bonus \uD83D\uDC8A gained."
+    ]
+  },
+  "kill_inversebrah": {
+    "base_message": [
+      "wassie hunter has been invoked. Samson took care of lil shid, making *{label}* gain {gold_gained}\uD83D\uDFE1 and {autism_gained}\uD83D\uDC8A.",
+      "*{label}* kills Inversebrah, gaining {gold_gained}\uD83D\uDFE1 and {autism_gained}\uD83D\uDC8A.",
+      "*{label}* take down smol shid, racking up {gold_gained}\uD83D\uDFE1 and {autism_gained}\uD83D\uDC8A."
+    ],
+    "result_message": [
+      "With {current_gold}\uD83D\uDFE1 and {current_hype}\uD83D\uDD25 vs {current_gold_opp}\uD83D\uDFE1 and {current_hype_opp}\uD83D\uDD25, *{label}* successfully stole {hype_stolen}\uD83D\uDD25."
+    ],
+    "result_message_fail": [
+      "Stats showdown: {current_gold}\uD83D\uDFE1 and {current_hype}\uD83D\uDD25 for *{label}* vs {current_gold_opp}\uD83D\uDFE1 and {current_hype_opp}\uD83D\uDD25 for the opponent. No \uD83D\uDD25 stolen."
+    ]
+  }
+}
+
+
+
+
